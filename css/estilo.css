@@ -1,0 +1,16 @@
+body 
+{
+	margin: 0;
+	padding: 0;
+	background: url(../img/31799.jpg) no-repeat fixed center center #333;
+	background-size: cover;
+
+}
+#wrapper
+{
+  border-radius: 5px;
+  background-color: #ccc;
+  height: 600px;
+  margin: 0 auto;
+  width: 700px;
+}
